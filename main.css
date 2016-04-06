@@ -4,29 +4,29 @@
   opacity: 0;
 }
 .drop-1 {
-  -webkit-animation: fade-in 0.5s linear 0.1s 1;
-          animation: fade-in 0.5s linear 0.1s 1;
+  -webkit-animation: fade-in 0.6s linear 0.15s 1;
+          animation: fade-in 0.6s linear 0.15s 1;
   animation-fill-mode: forwards;
   -webkit-animation-fill-mode: forwards;
 }
 
 .drop-2 {
-  -webkit-animation: fade-in 0.5s linear 0.3s 1;
-          animation: fade-in 0.5s linear 0.3s 1;
+  -webkit-animation: fade-in 0.6s linear 0.3s 1;
+          animation: fade-in 0.6s linear 0.3s 1;
   animation-fill-mode: forwards;
   -webkit-animation-fill-mode: forwards;
 }
 
 .drop-3 {
-  -webkit-animation: fade-in 0.5s linear 0.5s 1;
-          animation: fade-in 0.5s linear 0.5s 1;
+  -webkit-animation: fade-in 0.6s linear 0.45s 1;
+          animation: fade-in 0.6s linear 0.45s 1;
   animation-fill-mode: forwards;
   -webkit-animation-fill-mode: forwards;
 }
 
 .drop-4 {
-  -webkit-animation: fade-in 0.5s linear 0.7s 1;
-          animation: fade-in 0.5s linear 0.7s 1;
+  -webkit-animation: fade-in 0.6s linear 0.6s 1;
+          animation: fade-in 0.6s linear 0.6s 1;
   animation-fill-mode: forwards;
   -webkit-animation-fill-mode: forwards;
 }
@@ -42,10 +42,10 @@
 .sk-cube-grid .sk-cube {
   width: 33%;
   height: 33%;
-  background-color: #00FFFF;
+  background-color: #333;
   float: left;
-  -webkit-animation: sk-cubeGridScaleDelay 1.2s infinite ease-in-out;
-          animation: sk-cubeGridScaleDelay 1.2s infinite ease-in-out;
+  -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
+          animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
 }
 .sk-cube-grid .sk-cube1 {
   -webkit-animation-delay: 0.2s;
